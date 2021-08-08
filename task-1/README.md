@@ -12,5 +12,4 @@ Description : https://gitcoin.co/issue/nervosnetwork/grants/2/100026208
 
 ## 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
 
-TODO
 ![Alt text](deposit_on_layer2.png "Deposit to Layer 2")
