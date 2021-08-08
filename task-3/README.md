@@ -6,23 +6,19 @@ Description : https://gitcoin.co/issue/nervosnetwork/grants/4/100026210
 
 ![Alt text](issued_smart_contract_console.png "Issued Smart Contract Console")
 
-## 2. The transaction hash from the console output (in text format).
-
-Transaction hash: 0xfd5711c8497a590fbd5bf839c00fb983c8e31668bdd77bc113a106e1a0c600b5
+## 2. The transaction hash from the console output.
 
 ```sh
 0xfd5711c8497a590fbd5bf839c00fb983c8e31668bdd77bc113a106e1a0c600b5
 ```
 
-## 3. The contract address that you called (in text format).
-
-Deployed contract address: 0x94904F230915aCb9e8Dc497e452a579063d4E137
+## 3. The contract address that you called.
 
 ```sh
 0x94904F230915aCb9e8Dc497e452a579063d4E137
 ```
 
-## 4. The ABI for contract you made a call on (in text format).
+## 4. The ABI for contract you made a call on.
 
 ```sh
 [
