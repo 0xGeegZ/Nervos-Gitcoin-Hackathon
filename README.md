@@ -13,3 +13,15 @@ Project : https://github.com/GuiDieudo/Nervos-Gitcoin-Hackathon
 ## 2 Deploy A Simple Ethereum Smart Contract On Polyjuice
 
 ./task-2
+
+## 3 Issue A Smart Contract Call To The Deployed Smart Contract
+
+./task-3
+
+## 4 Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+
+./task-4
+
+## 5 Deploy The ERC20 Proxy Contract For The Deposited SUDT
+
+./task-5
