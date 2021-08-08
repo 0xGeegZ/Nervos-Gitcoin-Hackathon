@@ -24,8 +24,8 @@ Deployed contract address: 0x94904F230915aCb9e8Dc497e452a579063d4E137
 
 ## 4. The ABI for contract you made a call on (in text format).
 
-```javascript
-;[
+```sh
+[
   {
     inputs: [],
     stateMutability: "payable",
