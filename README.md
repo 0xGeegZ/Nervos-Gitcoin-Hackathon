@@ -25,3 +25,7 @@ Project : https://github.com/GuiDieudo/Nervos-Gitcoin-Hackathon
 ## 5 Deploy The ERC20 Proxy Contract For The Deposited SUDT
 
 ./task-5
+
+## 6 Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+
+./task-6
