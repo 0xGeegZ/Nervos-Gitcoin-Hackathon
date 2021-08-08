@@ -10,6 +10,14 @@ Description : https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 
 Transaction hash: 0x0e7db0f09f8af93a8332567d331f2cca22024449848a7eb5cad93452de80dce0
 
+```sh
+0x0e7db0f09f8af93a8332567d331f2cca22024449848a7eb5cad93452de80dce0
+```
+
 ## 3. The deployed contract address from the contract deployment (in text format).
 
 Deployed contract address: 0x94904F230915aCb9e8Dc497e452a579063d4E137
+
+```sh
+0x94904F230915aCb9e8Dc497e452a579063d4E137
+```
