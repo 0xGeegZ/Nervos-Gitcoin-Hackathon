@@ -29,3 +29,15 @@ Project : https://github.com/GuiDieudo/Nervos-Gitcoin-Hackathon
 ## 6 Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
 ./task-6
+
+## 7 Port An Existing Ethereum DApp To Polyjuice
+
+./task-7
+
+## 9 Initiate Withdrawal Process From The Layer 2 Back To Layer 1
+
+./task-9
+
+## 10 Complete Withdrawal Process By Unlocking The Funds
+
+./task-10
